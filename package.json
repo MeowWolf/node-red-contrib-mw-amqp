@@ -1,5 +1,5 @@
 {
-  "name": "@moonrockfamily/node-red-contrib-amqp",
+  "name": "@thiles/node-red-contrib-amqp",
   "license": "ISC",
   "version": "2.4.4",
   "description": "Amqp nodes for node-red",
